@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Burst (%1$d Foto)</item>
+        <item>Burst (%1$d Foto)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d foto disimpan</item>
+        <item>%1$d foto disimpan</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d foto terbaik disimpan</item>
+        <item>%1$d foto terbaik disimpan</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Beruntun (%d foto)</item>
+        <item>Beruntun (%d foto)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d wajah.</item>
+        <item>%1$d wajah.</item>
+    </plurals>
+</resources>

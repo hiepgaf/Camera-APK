@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Ριπή (%1$d φωτογραφίες)</item>
+        <item>Ριπή (%1$d φωτογραφία)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d φωτογραφίες αποθηκεύτηκαν</item>
+        <item>%1$d φωτογραφία αποθηκεύτηκε</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>Αποθηκεύτηκαν %1$d καλύτερες φωτογραφίες</item>
+        <item>Αποθηκεύτηκε %1$d καλύτερη φωτογραφία</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Ριπή (%d φωτογραφίες)</item>
+        <item>Ριπή (%d φωτογραφία)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d πρόσωπα.</item>
+        <item>%1$d πρόσωπο.</item>
+    </plurals>
+</resources>

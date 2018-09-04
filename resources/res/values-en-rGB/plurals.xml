@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Burst (%1$d Photos)</item>
+        <item>Burst (%1$d Photo)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d photos saved</item>
+        <item>%1$d photo saved</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d best photos saved</item>
+        <item>%1$d best photo saved</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Burst (%d photos)</item>
+        <item>Burst (%d photo)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d faces.</item>
+        <item>%1$d face.</item>
+    </plurals>
+</resources>

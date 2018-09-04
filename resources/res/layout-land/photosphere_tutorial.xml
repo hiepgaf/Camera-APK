@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:id="@+id/refocus_tutorial" android:background="@android:color/black" android:paddingLeft="38dp" android:paddingTop="71dp" android:paddingRight="38dp" android:paddingBottom="71dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:layout_gravity="center" android:id="@+id/slide_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/tutorial_graphics_panorama_1" android:scaleType="centerInside"/>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+        <TextView android:gravity="center_horizontal" android:id="@+id/photosphere_tutorial_title" android:paddingLeft="28dp" android:paddingRight="28dp" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/fullscreen_dialog_title"/>
+        <TextView android:gravity="center_horizontal" android:id="@+id/photosphere_tutorial_body" android:paddingLeft="15dp" android:paddingTop="15dp" android:paddingRight="15dp" android:paddingBottom="36dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/keep_the_camera_centered" style="@style/fullscreen_dialog_body"/>
+        <Button android:layout_gravity="center_horizontal" android:id="@+id/next_button" android:layout_marginBottom="28dp" style="@style/BlueButton"/>
+    </LinearLayout>
+</LinearLayout>

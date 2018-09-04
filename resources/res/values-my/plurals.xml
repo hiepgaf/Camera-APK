@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Smart Burst ရိုက်ကူးထားသောဓာတ်ပုံ (%1$d ပုံ)</item>
+        <item>Smart Burst ရိုက်ကူးထားသောဓာတ်ပုံ (%1$d ပုံ)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>ဓာတ်ပုံ %1$d ပုံကို သိမ်းပြီးပါပြီ</item>
+        <item>ဓာတ်ပုံ %1$d ပုံကို သိမ်းပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>အကောင်းဆုံးပုံ %1$d ပုံကို သိမ်းထားသည်</item>
+        <item>အကောင်းဆုံးပုံ %1$d ပုံကို သိမ်းထားသည်</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>ဆက်တိုက်ရိုက်ဓာတ်ပုံ (%d ပုံ)</item>
+        <item>ဆက်တိုက်ရိုက်ဓာတ်ပုံ (%d ပုံ)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>မျက်နှာ %1$d ခု။</item>
+        <item>မျက်နှာ %1$d ခု။</item>
+    </plurals>
+</resources>

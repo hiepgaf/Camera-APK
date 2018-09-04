@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Uzastopno (%1$d fotografija)</item>
+        <item>Uzastopno (%1$d fotografija)</item>
+        <item>Uzastopno (%1$d fotografije)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d fotografija spremljeno</item>
+        <item>%1$d fotografija spremljena</item>
+        <item>%1$d fotografije spremljene</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>Spremljeno je %1$d najboljih fotografija</item>
+        <item>Spremljena je %1$d najbolja fotografija</item>
+        <item>Spremljene su %1$d najbolje fotografije</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Uzastopno (%d fotografija)</item>
+        <item>Uzastopno (%d fotografija)</item>
+        <item>Uzastopno (%d fotografije)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d lica.</item>
+        <item>%1$d lice.</item>
+        <item>%1$d lica.</item>
+    </plurals>
+</resources>

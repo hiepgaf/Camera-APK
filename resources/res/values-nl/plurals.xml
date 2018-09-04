@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Actiefoto (%1$d foto&apos;s)</item>
+        <item>Actiefoto (%1$d foto)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d foto&apos;s opgeslagen</item>
+        <item>%1$d foto opgeslagen</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d beste foto&apos;s opgeslagen</item>
+        <item>%1$d beste foto opgeslagen</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Actiefoto (%d foto&apos;s)</item>
+        <item>Actiefoto (%d foto)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d gezichten.</item>
+        <item>%1$d gezicht.</item>
+    </plurals>
+</resources>

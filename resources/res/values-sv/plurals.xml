@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Fotoserie (%1$d foton)</item>
+        <item>Fotoserie (%1$d foto)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d foton sparades</item>
+        <item>%1$d foto sparades</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d av de bästa fotona sparas</item>
+        <item>%1$d av de bästa fotona sparas</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Fotoserie (%d bilder)</item>
+        <item>Fotoserie (%d bild)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d ansikten.</item>
+        <item>%1$d ansikte.</item>
+    </plurals>
+</resources>

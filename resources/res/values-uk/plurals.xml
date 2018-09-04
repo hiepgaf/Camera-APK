@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Серійна зйомка (%1$d фото)</item>
+        <item>Серійна зйомка (%1$d фото)</item>
+        <item>Серійна зйомка (%1$d фото)</item>
+        <item>Серійна зйомка (%1$d фото)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>Збережено %1$d фотографії</item>
+        <item>Збережено %1$d фотографію</item>
+        <item>Збережено %1$d фотографії</item>
+        <item>Збережено %1$d фотографій</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d найкращої фотографії збережено</item>
+        <item>%1$d найкращу фотографію збережено</item>
+        <item>%1$d найкращі фотографії збережено</item>
+        <item>%1$d найкращих фотографій збережено</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Серія фотографій (%d)</item>
+        <item>Серія фотографій (%d)</item>
+        <item>Серія фотографій (%d)</item>
+        <item>Серія фотографій (%d)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d обличчя.</item>
+        <item>%1$d обличчя.</item>
+        <item>%1$d обличчя.</item>
+        <item>%1$d облич.</item>
+    </plurals>
+</resources>

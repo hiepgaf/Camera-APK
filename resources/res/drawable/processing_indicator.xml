@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:name="processing_indicator" android:height="150dp" android:width="150dp" android:viewportWidth="150" android:viewportHeight="150">
+    <group android:name="_ring" android:translateX="75" android:translateY="75">
+        <group android:name="_ring_pivot" android:translateX="1.5576" android:translateY="6.5576">
+            <group android:name="ellipse_1" android:translateX="-1.5576" android:translateY="-6.5576">
+                <path android:name="path_1" android:pathData="M 0.0,-36.0 c 19.8822479248,0.0 36.0,16.1177520752 36.0,36.0 c 0.0,19.8822479248 -16.1177520752,36.0 -36.0,36.0 c -19.8822479248,0.0 -36.0,-16.1177520752 -36.0,-36.0 c 0.0,-19.8822479248 16.1177520752,-36.0 36.0,-36.0 Z" android:strokeColor="#ffffffff" android:strokeWidth="3" android:strokeAlpha="0.15"/>
+            </group>
+        </group>
+    </group>
+    <group android:name="_spinner" android:translateX="75" android:translateY="75">
+        <group android:name="_spinner_pivot" android:translateX="1.5576" android:translateY="6.5576">
+            <group android:name="ellipse_2" android:translateX="-1.5576" android:translateY="-6.5576">
+                <path android:name="path_2" android:pathData="M 0.0,-36.0 c 19.8822479248,0.0 36.0,16.1177520752 36.0,36.0 c 0.0,19.8822479248 -16.1177520752,36.0 -36.0,36.0 c -19.8822479248,0.0 -36.0,-16.1177520752 -36.0,-36.0 c 0.0,-19.8822479248 16.1177520752,-36.0 36.0,-36.0 Z" android:strokeColor="#ffffffff" android:strokeWidth="3" android:trimPathEnd="0" android:strokeLineCap="round" android:strokeAlpha="0.5"/>
+            </group>
+        </group>
+    </group>
+</vector>

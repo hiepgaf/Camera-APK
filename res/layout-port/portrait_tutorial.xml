@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/refocus_tutorial" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:gravity="center_horizontal" android:id="@id/portrait_tutorial_title" android:paddingLeft="28.0dip" android:paddingTop="72.0dip" android:paddingRight="28.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gouda_tutorial_title" style="@style/fullscreen_dialog_title" />
+        <TextView android:gravity="center_horizontal" android:id="@id/portrait_tutorial_body" android:paddingLeft="60.0dip" android:paddingTop="15.0dip" android:paddingRight="60.0dip" android:paddingBottom="36.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gouda_tutorial_text" android:layout_weight="0.0" style="@style/fullscreen_dialog_body" />
+        <ImageView android:layout_gravity="center|top" android:id="@id/slide_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gouda_tutorial_image" android:scaleType="centerInside" />
+    </LinearLayout>
+    <Button android:layout_gravity="bottom|center" android:id="@id/next_button" android:layout_marginBottom="72.0dip" android:text="@string/photosphere_tutorial_ok_got_it" android:layout_weight="0.0" style="@style/BlueButton" />
+</FrameLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>एक क्लिक में कई फ़ोटो (बर्स्ट) (%1$d फ़ोटो)</item>
+        <item>एक क्लिक में कई फ़ोटो (बर्स्ट) (%1$d फ़ोटो)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d फ़ोटो सहेजी गईं</item>
+        <item>%1$d फ़ोटो सहेजी गईं</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d बेहतरीन फ़ोटो सहेजी गईं</item>
+        <item>%1$d बेहतरीन फ़ोटो सहेजी गईं</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>बर्स्ट (%d फ़ोटो)</item>
+        <item>बर्स्ट (%d फ़ोटो)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d चेहरे.</item>
+        <item>%1$d चेहरे.</item>
+    </plurals>
+</resources>

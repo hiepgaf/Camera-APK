@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Qatorasiga (%1$d ta surat)</item>
+        <item>Qatorasiga (%1$d ta surat)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d ta surat saqlandi</item>
+        <item>%1$d ta surat saqlandi</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d ta eng yaxshi surat saqlandi</item>
+        <item>%1$d ta eng yaxshi surat saqlandi</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Qatorasiga (%d ta surat)</item>
+        <item>Qatorasiga (%d ta surat)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d ta yuz.</item>
+        <item>%1$d ta yuz.</item>
+    </plurals>
+</resources>

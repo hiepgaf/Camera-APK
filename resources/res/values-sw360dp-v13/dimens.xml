@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_bar_content_size">80dp</dimen>
+    <dimen name="bottom_bar_side_content_size">74dp</dimen>
+    <dimen name="optionsbar_category_height">44dp</dimen>
+    <dimen name="optionsbar_category_width">44dp</dimen>
+    <dimen name="photo_button_inner_radius">30dp</dimen>
+    <dimen name="photo_button_radius">36dp</dimen>
+    <dimen name="photo_video_switch_inner_size">52dp</dimen>
+    <dimen name="photo_video_switch_size">63dp</dimen>
+    <dimen name="shutter_button_click_elevation">4dp</dimen>
+    <dimen name="topbar_height">44dp</dimen>
+    <dimen name="toybox_menu_padding">10dp</dimen>
+    <dimen name="video_button_breathing_radius">72dp</dimen>
+    <dimen name="video_button_inner_radius">8dp</dimen>
+    <dimen name="video_button_stop_square_size">24dp</dimen>
+</resources>

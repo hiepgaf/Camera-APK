@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>ภาพถ่ายอัจฉริยะ (%1$d รูป)</item>
+        <item>ภาพถ่ายอัจฉริยะ (%1$d รูป)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>บันทึก %1$d รูป</item>
+        <item>บันทึก %1$d รูป</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>บันทึกรูปภาพที่ดีที่สุด %1$d รูป</item>
+        <item>บันทึกรูปภาพที่ดีที่สุด %1$d รูป</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>ภาพถ่ายอัจฉริยะ (%d ภาพ)</item>
+        <item>ภาพถ่ายอัจฉริยะ (%d ภาพ)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d ใบหน้า</item>
+        <item>%1$d ใบหน้า</item>
+    </plurals>
+</resources>

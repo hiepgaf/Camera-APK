@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.camera.legacy.app.filmstrip.widget.FilmstripShortTallBottomBarBackground xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/filmstrip_short_tall_bottom_bar_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <View android:layout_gravity="bottom" android:id="@+id/filmstrip_short_bottom_bar_gradient" android:background="@drawable/filmstrip_bottom_bar_background" android:layout_width="match_parent" android:layout_height="120dp"/>
+    <View android:layout_gravity="bottom" android:id="@+id/filmstrip_tall_bottom_bar_gradient" android:background="@drawable/filmstrip_bottom_bar_background" android:layout_width="match_parent" android:layout_height="168dp"/>
+</com.google.android.apps.camera.legacy.app.filmstrip.widget.FilmstripShortTallBottomBarBackground>

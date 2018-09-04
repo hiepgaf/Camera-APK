@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Në seri (%1$d fotografi)</item>
+        <item>Në seri (%1$d fotografi)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d fotografi të ruajtura</item>
+        <item>%1$d fotografi e ruajtur</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d fotografi më të mira u ruajtën</item>
+        <item>%1$d fotografi më e mirë u ruajt</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Në seri (%d fotografi)</item>
+        <item>Në seri (%d fotografi)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d fytyra.</item>
+        <item>%1$d fytyrë.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>ຮູບຕໍ່ເນື່ອງ (%1$d ຮູບ)</item>
+        <item>ຮູບຕໍ່ເນື່ອງ (%1$d ຮູບ)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>ບັນທຶກ %1$d ຮູບພາບແລ້ວ</item>
+        <item>ບັນທຶກ %1$d ຮູບພາບແລ້ວ</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>ບັນທຶກ %1$d ຮູບທີ່ດີທີ່ສຸດແລ້ວ</item>
+        <item>ບັນທຶກ %1$d ຮູບທີ່ດີທີ່ສຸດແລ້ວ</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>ຮູບຖ່າຍຕໍ່ເນື່ອງ (%d ຮູບ)</item>
+        <item>ຮູບຖ່າຍຕໍ່ເນື່ອງ (%d ຮູບ)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d ໃບໜ້າ.</item>
+        <item>%1$d ໃບໜ້າ.</item>
+    </plurals>
+</resources>

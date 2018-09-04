@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>صور متسلسلة (%1$d صورة)</item>
+        <item>صور متسلسلة (%1$d صورة)</item>
+        <item>صور متسلسلة (صورة واحدة (%1$d))</item>
+        <item>صور متسلسلة (صورتان (%1$d))</item>
+        <item>صور متسلسلة (%1$d صور)</item>
+        <item>صور متسلسلة (%1$d صورة)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>تم حفظ %1$d صورة</item>
+        <item>تم حفظ %1$d صورة</item>
+        <item>تم حفظ %1$d صورة</item>
+        <item>تم حفظ صورتين (%1$d)</item>
+        <item>تم حفظ %1$d صور</item>
+        <item>تم حفظ %1$d صورة</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>تم حفظ أفضل %1$d صورة</item>
+        <item>%1$d best photos saved</item>
+        <item>تم حفظ أفضل صورة (%1$d)</item>
+        <item>تم حفظ أفضل صورتين (%1$d)</item>
+        <item>تم حفظ أفضل %1$d صور</item>
+        <item>تم حفظ أفضل %1$d صورة</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>صور متسلسلة (%d صورة)</item>
+        <item>صور متسلسلة (%d صور)</item>
+        <item>صور متسلسلة (%d صورة)</item>
+        <item>صور متسلسلة (صورتان (%d))</item>
+        <item>صور متسلسلة (%d صور)</item>
+        <item>صور متسلسلة (%d صورة)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d وجه.</item>
+        <item>%1$d وجه.</item>
+        <item>%1$d وجه.</item>
+        <item>وجهان (%1$d).</item>
+        <item>%1$d وجوه.</item>
+        <item>%1$d وجهًا.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>ፍንጠቃ (%1$d ፎቶዎች)</item>
+        <item>ፍንጠቃ (%1$d ፎቶዎች)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d ፎቶዎች ተቀምጠዋል</item>
+        <item>%1$d ፎቶዎች ተቀምጠዋል</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d ምርጥ ፎቶዎች ተቀምጠዋል</item>
+        <item>%1$d ምርጥ ፎቶዎች ተቀምጠዋል</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>ፍንጠቃ (%d ፎቶዎች)</item>
+        <item>ፍንጠቃ (%d ፎቶዎች)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d መልኮች።</item>
+        <item>%1$d መልኮች።</item>
+    </plurals>
+</resources>

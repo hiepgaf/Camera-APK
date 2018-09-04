@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Ukubhamuka (%1$d Izithombe)</item>
+        <item>Ukubhamuka (%1$d Izithombe)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d izithombe zilondoloziwe</item>
+        <item>%1$d izithombe zilondoloziwe</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d izithombe ezinhle zilondoloziwe</item>
+        <item>%1$d izithombe ezinhle zilondoloziwe</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Ukuqhuma (%d izithombe)</item>
+        <item>Ukuqhuma (%d izithombe)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d ubuso.</item>
+        <item>%1$d ubuso.</item>
+    </plurals>
+</resources>

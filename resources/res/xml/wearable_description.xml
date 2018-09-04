@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wearableApp xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" package="com.google.android.GoogleCamera">
+    <path>camera_wear_app_PlaystoreRelease.apk
+    </path>
+</wearableApp>

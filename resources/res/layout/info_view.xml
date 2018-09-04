@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="#bc000000" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/imageBackground" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textSize="24sp" android:textColor="#ffffff" android:id="@+id/textTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="32dp" android:text="Feature Name" android:layout_marginStart="32dp"/>
+        <TextView android:textSize="16sp" android:textColor="#ffffff" android:id="@+id/textContent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:text="Information about feature goes here.
+Use multiple lines, etc.
+Another line." android:layout_marginStart="32dp" android:layout_marginEnd="90dp"/>
+        <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/quantum_googblue" android:layout_gravity="right" android:id="@+id/textGotIt" android:padding="24dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0dp" android:layout_marginRight="8dp" android:text="@string/infopane_got_it" android:textAllCaps="true"/>
+    </LinearLayout>
+</FrameLayout>

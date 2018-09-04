@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="@dimen/burst_grid_section_header_height">
+    <TextView android:gravity="center_vertical" android:layout_gravity="left|center_vertical|center_horizontal|center|start" android:id="@+id/section_title" android:layout_width="wrap_content" android:layout_height="match_parent" style="@style/BurstEditorSectionHeaderTitle"/>
+    <TextView android:gravity="center_vertical" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:id="@+id/section_num_frames" android:layout_width="wrap_content" android:layout_height="match_parent" style="@style/BurstEditorSectionHeaderNumFrames"/>
+</FrameLayout>

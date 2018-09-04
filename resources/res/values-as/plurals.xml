@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>বাৰ্ষ্ট (%1$dখন ফট&apos;)</item>
+        <item>বাৰ্ষ্ট (%1$dখন ফট&apos;)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$dখন শ্ৰেষ্ঠ ফট&apos; ছেভ কৰা হ&apos;ল</item>
+        <item>%1$dখন শ্ৰেষ্ঠ ফট&apos; ছেভ কৰা হ&apos;ল</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$dখন শ্ৰেষ্ঠ ফট&apos; ছেভ কৰা হ&apos;ল</item>
+        <item>%1$dখন শ্ৰেষ্ঠ ফট&apos; ছেভ কৰা হ&apos;ল</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>বাৰ্ষ্ট (%dখন ফট&apos;)</item>
+        <item>বাৰ্ষ্ট (%dখন ফট&apos;)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$dখন মুখ।</item>
+        <item>%1$dখন মুখ।</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Loạt ảnh (%1$d ảnh)</item>
+        <item>Loạt ảnh (%1$d ảnh)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>Đã lưu %1$d ảnh</item>
+        <item>Đã lưu %1$d ảnh</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>Đã lưu %1$d ảnh đẹp nhất</item>
+        <item>Đã lưu %1$d ảnh đẹp nhất</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Loạt ảnh (%d ảnh)</item>
+        <item>Loạt ảnh (%d ảnh)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d khuôn mặt.</item>
+        <item>%1$d khuôn mặt.</item>
+    </plurals>
+</resources>

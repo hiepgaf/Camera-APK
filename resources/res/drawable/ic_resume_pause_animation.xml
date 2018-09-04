@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/ic_resume_pause">
+    <target android:name="mask_3" android:animation="@anim/ic_resume_pause_mask_3_animation"/>
+    <target android:name="rectangle_path_3" android:animation="@anim/ic_resume_pause_rectangle_path_3_animation"/>
+    <target android:name="mask_4" android:animation="@anim/ic_resume_pause_mask_4_animation"/>
+    <target android:name="rectangle_path_4" android:animation="@anim/ic_resume_pause_rectangle_path_4_animation"/>
+</animated-vector>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Myndaröð (%1$d myndir)</item>
+        <item>Myndaröð (%1$d mynd)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d myndir vistaðar</item>
+        <item>%1$d mynd vistuð</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>Vistaði %1$d bestu myndirnar</item>
+        <item>Vistaði %1$d bestu myndina</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Myndaröð (%d myndir)</item>
+        <item>Myndaröð (%d mynd)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d andlit.</item>
+        <item>%1$d andlit.</item>
+    </plurals>
+</resources>

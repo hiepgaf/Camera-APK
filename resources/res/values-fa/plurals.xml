@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>رگباری (%1$d عکس)</item>
+        <item>رگباری (%1$d عکس)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d عکس ذخیره شد</item>
+        <item>%1$d عکس ذخیره شد</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d عکس از بهترین عکس‌ها ذخیره شد</item>
+        <item>%1$d عکس از بهترین عکس‌ها ذخیره شد</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>رگباری (%d عکس)</item>
+        <item>رگباری (%d عکس)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d چهره.</item>
+        <item>%1$d چهره.</item>
+    </plurals>
+</resources>

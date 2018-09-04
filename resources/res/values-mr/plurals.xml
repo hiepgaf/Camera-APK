@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>बर्स्ट (%1$d फोटो)</item>
+        <item>बर्स्ट (%1$d फोटो)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d फोटो सेव्ह केले</item>
+        <item>%1$d फोटो जतन केला</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d सर्वोत्तम फोटो सेव्ह केले</item>
+        <item>%1$d सर्वोत्तम फोटो जतन केला</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>बर्स्ट (%d फोटो)</item>
+        <item>बर्स्ट (%d फोटो)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d चेहरे.</item>
+        <item>%1$d चेहरा.</item>
+    </plurals>
+</resources>

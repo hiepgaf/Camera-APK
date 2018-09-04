@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Seri Çekim (%1$d Fotoğraf)</item>
+        <item>Seri Çekim (%1$d Fotoğraf)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d fotoğraf kaydedildi</item>
+        <item>%1$d fotoğraf kaydedildi</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>En iyi %1$d fotoğraf kaydedildi</item>
+        <item>En iyi %1$d fotoğraf kaydedildi</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Seri çekim (%d fotoğraf)</item>
+        <item>Seri çekim (%d fotoğraf)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d tane yüz.</item>
+        <item>%1$d tane yüz.</item>
+    </plurals>
+</resources>

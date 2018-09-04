@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:id="@+id/refocus_tutorial" android:background="@color/fullscreen_dialog_background_color" android:padding="16dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include layout="@layout/refocus_tutorial_slide1"/>
+    <include android:visibility="gone" layout="@layout/refocus_tutorial_slide2"/>
+    <include android:visibility="gone" layout="@layout/refocus_tutorial_slide3"/>
+    <FrameLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+        <TextView android:gravity="center_horizontal" android:id="@+id/refocus_tutorial_title" android:paddingLeft="15dp" android:paddingTop="28dp" android:paddingRight="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/keep_the_camera_centered" style="@style/fullscreen_dialog_title"/>
+        <RelativeLayout android:gravity="bottom|center_vertical|center_horizontal|center" android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <Button android:id="@+id/next_button" android:layout_marginBottom="84dp" style="@style/BlueButton"/>
+            <Button android:id="@+id/skip_link" android:layout_marginBottom="28dp" android:text="@string/refocus_tutorial_skip" android:layout_alignBaseline="@+id/next_button" android:layout_toEndOf="@+id/next_button" style="@style/SkipLink"/>
+        </RelativeLayout>
+    </FrameLayout>
+</LinearLayout>

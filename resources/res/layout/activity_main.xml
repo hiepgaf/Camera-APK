@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.camera.ui.views.MainActivityLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/activity_root_view" android:tag="activityRoot" android:background="@color/main_layout_background_color" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layoutDirection="ltr">
+    <requestFocus/>
+    <FrameLayout android:id="@+id/viewfinder_frame" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" app:gca_box="6"/>
+    <ViewStub android:id="@+id/camera_frame_bottom_layout_stub" android:layout="@layout/camera" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.google.android.apps.camera.ui.modeswitch.ViewfinderCover android:id="@+id/viewfinder_cover" android:tag="viewfinderCover" android:background="@color/black" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent" app:gca_box="2">
+            <ImageView android:layout_gravity="center" android:id="@+id/viewfinder_cover_icon" android:layout_width="@dimen/mode_transition_view_icon_size" android:layout_height="@dimen/mode_transition_view_icon_size"/>
+        </FrameLayout>
+    </com.google.android.apps.camera.ui.modeswitch.ViewfinderCover>
+    <ViewStub android:id="@+id/camera_intent_layout_stub" android:layout="@layout/intent" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <FrameLayout android:gravity="center" android:id="@+id/mode_switcher_ui_hold" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" app:gca_box="7"/>
+    <com.google.android.apps.camera.bottombar.BottomBar android:gravity="center" android:id="@+id/bottom_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:gca_box="5"/>
+    <ViewStub android:id="@+id/camera_frame_overlay_layout_stub" android:layout="@layout/camera_overlay" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</com.google.android.apps.camera.ui.views.MainActivityLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:insetLeft="2dp" android:insetTop="2dp">
+    <shape android:shape="oval">
+        <size android:height="20dp" android:width="20dp"/>
+        <solid android:color="@null"/>
+        <stroke android:width="2dp" android:color="#66ffffff"/>
+    </shape>
+</inset>

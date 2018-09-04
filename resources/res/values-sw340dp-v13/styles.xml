@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="photosphere_overlay_message_short">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="photosphere_overlay_icon">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">75dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+    <style name="photosphere_overlay_message_long">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#6d6d6d</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+</resources>

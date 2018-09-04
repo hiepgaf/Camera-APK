@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Рафално снимање (%1$d слика)</item>
+        <item>Рафално снимање (%1$d слика)</item>
+        <item>Рафално снимање (%1$d слике)</item>
+    </plurals>
+    <plurals name="burst">
+        <item>Rafalno snimanje (%1$d slika)</item>
+        <item>Rafalno snimanje (%1$d slika)</item>
+        <item>Rafalno snimanje (%1$d slike)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d слика је сачувано</item>
+        <item>%1$d слика је сачувана</item>
+        <item>%1$d слике су сачуване</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d slika je sačuvano</item>
+        <item>%1$d slika je sačuvana</item>
+        <item>%1$d slike su sačuvane</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d најбољих слика је сачувано</item>
+        <item>%1$d најбоља слика је сачувана</item>
+        <item>%1$d најбоље слике су сачуване</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d najboljih slika je sačuvano</item>
+        <item>%1$d najbolja slika je sačuvana</item>
+        <item>%1$d najbolje slike su sačuvane</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Рафално снимање (%d слика)</item>
+        <item>Рафално снимање (%d слика)</item>
+        <item>Рафално снимање (%d слике)</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Rafalno snimanje (%d slika)</item>
+        <item>Rafalno snimanje (%d slika)</item>
+        <item>Rafalno snimanje (%d slike)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d лица.</item>
+        <item>%1$d лице.</item>
+        <item>%1$d лица.</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d lica.</item>
+        <item>%1$d lice.</item>
+        <item>%1$d lica.</item>
+    </plurals>
+</resources>

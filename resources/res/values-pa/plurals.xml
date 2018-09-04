@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>ਬਰਸਟ (%1$d ਫ਼ੋਟੋਆਂ)</item>
+        <item>ਬਰਸਟ (%1$d ਫ਼ੋਟੋ)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d ਫ਼ੋਟੋਆਂ ਰੱਖਿਅਤ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item>%1$d ਫ਼ੋਟੋਆਂ ਰੱਖਿਅਤ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d ਸਭ ਤੋਂ ਵਧੀਆ ਫ਼ੋਟੋਆਂ ਰੱਖਿਅਤ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item>%1$d ਸਭ ਤੋਂ ਵਧੀਆ ਫ਼ੋਟੋਆਂ ਰੱਖਿਅਤ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>ਬਰਸਟ (%d ਫੋੋਟੋਆਂ)</item>
+        <item>ਬਰਸਟ (%d ਫੋੋਟੋਆਂ)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d ਚਿਹਰੇ।</item>
+        <item>%1$d ਚਿਹਰੇ।</item>
+    </plurals>
+</resources>

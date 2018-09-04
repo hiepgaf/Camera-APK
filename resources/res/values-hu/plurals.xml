@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Sorozatfelvétel (%1$d fotó)</item>
+        <item>Sorozatfelvétel (%1$d fotó)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d fotó elmentve</item>
+        <item>%1$d fotó elmentve</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d legjobb fotó mentve</item>
+        <item>%1$d legjobb fotó mentve</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Sorozat (%d kép)</item>
+        <item>Sorozat (%d kép)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d arc.</item>
+        <item>%1$d arc.</item>
+    </plurals>
+</resources>

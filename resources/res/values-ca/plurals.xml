@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Ràfega (%1$d fotos)</item>
+        <item>Ràfega (%1$d foto)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>S&apos;han desat %1$d fotos</item>
+        <item>S&apos;ha desat %1$d foto</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d millors fotos desades</item>
+        <item>%1$d millor foto desada</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Ràfega (%d fotos)</item>
+        <item>Ràfega (%d foto)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d cares</item>
+        <item>%1$d cara</item>
+    </plurals>
+</resources>

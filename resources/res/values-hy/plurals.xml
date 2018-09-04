@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Շարք (%1$d լուսանկար)</item>
+        <item>Շարք (%1$d լուսանկար)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>Պահվել է %1$d լուսանկար</item>
+        <item>%1$d photos saved</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d լավագույն լուսանկարները պահվել են</item>
+        <item>%1$d լավագույն լուսանկարները պահվել են</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Փաթեթ (%d լուսանկար)</item>
+        <item>Փաթեթ (%d լուսանկար)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d դեմք:</item>
+        <item>%1$d faces.</item>
+    </plurals>
+</resources>

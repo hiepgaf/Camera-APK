@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Sarsie (%1$d foto&apos;s)</item>
+        <item>Sarsie (%1$d foto)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d foto&apos;s is gestoor</item>
+        <item>%1$d foto is gestoor</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d beste foto&apos;s is gestoor</item>
+        <item>%1$d beste foto is gestoor</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Sarsie (%d foto&apos;s)</item>
+        <item>Sarsie (%d foto)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d gesigte.</item>
+        <item>%1$d gesig.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.camera.ui.layout.GcaLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/camera_app_root_overlay" android:tag="overlayAppRoot" android:layout_width="match_parent" android:layout_height="match_parent" android:layoutDirection="ltr">
+    <com.google.android.apps.camera.ui.tutorialoverlay.TutorialOverlayWrapper android:id="@+id/tutorials_placeholder_wrapper" android:background="@color/fullscreen_dialog_background_color" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layoutDirection="ltr"/>
+    <fragment android:name="com.google.android.apps.camera.legacy.app.filmstrip.FilmstripFragmentImpl" android:id="@+id/filmstrip_fragment" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</com.google.android.apps.camera.ui.layout.GcaLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Disparo continuo (%1$d fotos)</item>
+        <item>Disparo continuo (%1$d foto)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>Gardáronse %1$d fotos</item>
+        <item>Gardouse %1$d foto</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d fotos moi boas gardadas</item>
+        <item>%1$d foto moi boa gardada</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Disparo continuo (%d fotos)</item>
+        <item>Disparo continuo (%d foto)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d caras.</item>
+        <item>%1$d cara.</item>
+    </plurals>
+</resources>

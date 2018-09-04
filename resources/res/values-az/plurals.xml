@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Silsilə (%1$d Foto)</item>
+        <item>Silsilə (%1$d Foto)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d foto yadda saxlandı</item>
+        <item>%1$d foto yadda saxlandı</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>ən yaxşı %1$d foto yadda saxlandı</item>
+        <item>ən yaxşı %1$d foto yadda saxlandı</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Parçalama (%d foto)</item>
+        <item>Parçalama (%d foto)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d üz.</item>
+        <item>%1$d üz.</item>
+    </plurals>
+</resources>

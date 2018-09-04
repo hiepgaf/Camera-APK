@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Foto a raffica (%1$d foto)</item>
+        <item>Foto a raffica (%1$d foto)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d foto salvate</item>
+        <item>%1$d foto salvata</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>%1$d foto più belle salvate</item>
+        <item>%1$d foto più bella salvata</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Serie di foto a raffica (%d)</item>
+        <item>Serie di foto a raffica (%d)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d volti.</item>
+        <item>%1$d volto.</item>
+    </plurals>
+</resources>

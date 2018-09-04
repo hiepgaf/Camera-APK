@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>រូបថតញាប់ (រូបថត %1$d)</item>
+        <item>រូបថតញាប់ (រូបថត %1$d)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>បានរក្សាទុករូបថត %1$d</item>
+        <item>បានរក្សាទុករូបថត %1$d</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>រូបថតល្អបំផុត %1$d ត្រូវបានរក្សាទុក</item>
+        <item>រូបថតល្អបំផុត %1$d ត្រូវបានរក្សាទុក</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>ថតញាប់ (%d រូប)</item>
+        <item>ថតញាប់ (%d រូប)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>មុខ %1$d</item>
+        <item>មុខ %1$d</item>
+    </plurals>
+</resources>

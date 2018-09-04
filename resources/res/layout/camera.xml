@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.camera.ui.views.CameraAppRootLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/camera_app_root" android:tag="uiRoot" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.apps.camera.ui.widget.TracedFrameLayout android:id="@+id/capture_overlay_layout" android:tag="previewUi" android:layout_width="match_parent" android:layout_height="match_parent" app:gca_box="1">
+        <com.google.android.apps.camera.faceboxes.FaceView android:id="@+id/face_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.google.android.apps.camera.ui.gridlines.GridLinesUi android:layout_gravity="center_horizontal" android:id="@+id/grid_lines" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.google.android.apps.camera.ui.widget.TracedFrameLayout android:id="@+id/module_layout" android:tag="moduleUi" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.google.android.apps.camera.uiutils.ReplaceableView android:id="@+id/notification_chip" android:visibility="gone" android:layout_width="0dp" android:layout_height="0dp"/>
+        <include android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="94dp" layout="@layout/accessibility_affordances"/>
+        <com.google.android.apps.camera.ui.views.CaptureAnimationOverlay android:id="@+id/capture_animation_overlay" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.google.android.apps.camera.progressoverlay.ProgressOverlay android:id="@+id/progress_overlay" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.google.android.apps.camera.focusindicator.FocusIndicatorView android:id="@+id/focus_indicator_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <View android:id="@+id/preview_scrim" android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+    </com.google.android.apps.camera.ui.widget.TracedFrameLayout>
+    <com.google.android.apps.camera.optionsbar.OptionsBarView android:id="@+id/optionsbar2" android:tag="optionsBar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:gca_box="4"/>
+    <com.google.android.apps.camera.ui.widget.TracedFrameLayout android:id="@+id/menu_button_holder" android:tag="menuButtons" android:visibility="invisible" android:layout_width="@dimen/optionsbar_category_width" android:layout_height="@dimen/optionsbar_category_height">
+        <ImageButton android:id="@+id/closeButton" android:background="@null" android:padding="@dimen/toybox_menu_padding" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/quantum_ic_close_white_24" android:contentDescription="@string/accessibility_close_button"/>
+        <com.google.android.apps.camera.ui.toyboxmenu.ToyboxMenuButton android:id="@+id/toybox_menu_button" android:background="@null" android:padding="@dimen/toybox_menu_padding" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@string/hamburger_menu_open"/>
+        <ImageView android:id="@+id/toybox_notification_dot" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:src="@drawable/toybox_notification_dot" android:layout_marginStart="29dp"/>
+    </com.google.android.apps.camera.ui.widget.TracedFrameLayout>
+    <com.google.android.apps.camera.ui.widget.TracedFrameLayout android:id="@+id/root_module_layout" android:tag="rootModule" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.google.android.apps.camera.ui.toyboxmenu.ToyboxDrawerLayout android:id="@+id/toybox_drawer" android:layout_width="match_parent" android:layout_height="match_parent" android:nestedScrollingEnabled="false" app:gca_box="2">
+        <com.google.android.apps.camera.ui.wirers.PreviewOverlay android:id="@+id/preview_overlay" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.google.android.apps.camera.evcomp.EvCompView android:id="@+id/evcomp" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+            <com.google.android.apps.camera.ui.widget.TracedFrameLayout android:id="@+id/smarts_ui_overlay" android:tag="iris" android:layout_width="match_parent" android:layout_height="match_parent" app:gca_box="1">
+                <com.google.android.apps.camera.uiutils.ReplaceableView android:id="@+id/smarts_ui_replaceableview" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            </com.google.android.apps.camera.ui.widget.TracedFrameLayout>
+            <com.google.android.apps.camera.zoomui.ZoomUi android:id="@+id/zoom_ui" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/zoom_ui_height" android:layout_alignParentBottom="true"/>
+            <ViewStub android:id="@+id/burst_chip_viewstub" android:layout="@layout/burst_chip_layout" android:inflatedId="@+id/burst_chip" android:layout_width="match_parent" android:layout_height="@dimen/burst_chip_holder_height" android:layout_marginBottom="@dimen/burst_chip_bottom_padding" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true"/>
+        </RelativeLayout>
+        <ListView android:layout_gravity="start" android:id="@+id/toybox_drawer_list" android:layout_width="@dimen/toybox_menu_width" android:layout_height="match_parent" android:listSelector="@drawable/toybox_list_background" android:divider="@null"/>
+    </com.google.android.apps.camera.ui.toyboxmenu.ToyboxDrawerLayout>
+    <com.google.android.apps.camera.ui.widget.TracedFrameLayout android:id="@+id/smarts_preview_overlay" android:tag="iris" android:layout_width="match_parent" android:layout_height="match_parent" app:gca_box="1">
+        <com.google.android.apps.camera.uiutils.ReplaceableView android:id="@+id/iris_overlay" android:visibility="gone" android:layout_width="0dp" android:layout_height="0dp"/>
+    </com.google.android.apps.camera.ui.widget.TracedFrameLayout>
+    <com.google.android.apps.camera.uiutils.ReplaceableView android:id="@+id/fullscreen_selfie_flash" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</com.google.android.apps.camera.ui.views.CameraAppRootLayout>

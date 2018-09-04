@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Burst (%1$d зураг)</item>
+        <item>Burst (%1$d зураг)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d зураг хадгалсан</item>
+        <item>%1$d зураг хадгалсан</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>шилдэг %1$d зургийг хадгалсан</item>
+        <item>хамгийн шилдэг %1$d зургийг хадгалсан</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Burst (%d зураг)</item>
+        <item>Burst (%d зураг)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d нүүр.</item>
+        <item>%1$d нүүр.</item>
+    </plurals>
+</resources>

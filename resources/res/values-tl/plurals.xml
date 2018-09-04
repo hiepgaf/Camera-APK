@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="burst">
+        <item>Burst (%1$d na Larawan)</item>
+        <item>Burst (%1$d Larawan)</item>
+    </plurals>
+    <plurals name="burst_chip">
+        <item>%1$d na larawan ang na-save</item>
+        <item>%1$d larawan ang na-save</item>
+    </plurals>
+    <plurals name="burst_chip_best">
+        <item>Na-save ang %1$d na pinakamagandang larawan</item>
+        <item>Na-save ang %1$d pinakamagandang larawan</item>
+    </plurals>
+    <plurals name="burst_overlay">
+        <item>Burst (%d na larawan)</item>
+        <item>Burst (%d larawan)</item>
+    </plurals>
+    <plurals name="number_of_faces_announcement">
+        <item>%1$d na mukha.</item>
+        <item>%1$d mukha.</item>
+    </plurals>
+</resources>
